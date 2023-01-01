@@ -21,8 +21,5 @@ Visual
 ![image](https://user-images.githubusercontent.com/111551902/210159535-86b85b3e-d3d3-4d24-88c1-aa633bc6ca53.png)
 
 
-
-
-
-
-
+Summary
+This was a great experience to be able to create a Python script to be used in an election analysis. This script may be used in other elections also. By using this script it was able to be determined which candidate won and also provided a lot of other important numbers and percentages. This allowed a thorough analysis by looking at each county also. There could be changes made to the script where you could analyze new laws that may be implemented to understand the percentages behind the choices. This would likely just require changes in the wording of the script like changing the candidate to law or whatever we want to consider. This information could also be analyzed at the local level or the state level and this again would only require a change in the script. 
